@@ -1,7 +1,5 @@
 # SpyroxasTimer
 
-# Spyroxas-Timer
-
 **Timer personnalisable pour une utilisation rapide pour les streams Twitch**
 
 Laisse-moi t'expliquer comment fonctionne ce timer :
