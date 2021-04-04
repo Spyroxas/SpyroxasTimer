@@ -1,0 +1,4 @@
+124
+Hey ! J'arrive dans {timer} les viewvers ou sinon c'est donc dans {min} minute{plural_min} !
+Hey ! Bientot ici ! Dans {sec} seconde{plural_sec} !
+C'est bon, j'arrive !
